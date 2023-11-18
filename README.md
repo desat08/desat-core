@@ -65,6 +65,8 @@ https://geniidata.com/ordinals/tick/DS08
 
 https://unisat.io/brc20/DS08
 
+https://www.okx.com/cn/web3/marketplace/ordinals/inscribing
+
 
 
 ### Economic Model and Revenue Allocation
