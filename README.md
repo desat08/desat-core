@@ -73,7 +73,7 @@ https://www.okx.com/cn/web3/marketplace/ordinals/inscribing
 
 Desats will adopt an industry-standard transaction fee. All transaction fees collected by the Desats platform will be allocated entirely to the community, to be shared among various roles contributing to the community.
 
-|                  |  | 
+|     Part             | Percentage | 
 |  -------------------------  | ----  | 
 | Community Developers and Operators | 60% |
 | Repurchase Desats Platform Tokens and Burn All | 10% |
