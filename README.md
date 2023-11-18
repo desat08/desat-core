@@ -68,7 +68,7 @@ Desats, as a Bitcoin ecosystem project, is launched with fairness. In homage to 
 
 Desats will adopt an industry-standard transaction fee. All transaction fees collected by the Desats platform will be allocated entirely to the community, to be shared among various roles contributing to the community.
 
-|Function                  | Desats | 
+|                  |  | 
 |  -------------------------  | ----  | 
 | Community Developers and Operators | 60% |
 | Repurchase Desats Platform Tokens and Burn All | 10% |
