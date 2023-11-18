@@ -59,9 +59,9 @@ Desats, as a Bitcoin ecosystem project, is launched with fairness. In homage to 
 
 **Limit per mint:1,000**
 
-[DS08](https://geniidata.com/ordinals/tick/DS08)
+[DS08](https://unisat.io/brc20/DS08)
 
-[Mint link](https://unisat.io/brc20/DS08)
+[Mint link](https://geniidata.com/ordinals/tick/DS08)
 
 
 ### Economic Model and Revenue Allocation
