@@ -1,71 +1,84 @@
-# 21sa-core
+# Desats
 
-Desats: Decentralized Community-Driven BRC20 Trading Platform
+## Decentralized Community-Driven Ordinals and Atomicals Protocol Trading Platform
+
+Desats is a decentralized community-driven platform for trading Ordinals and Atomicals protocol tokens. This product is collectively owned and driven by the community, utilizing cutting-edge technology to facilitate fast buying and selling on the Bitcoin network. Additionally, it introduces exclusive token incentives in the industry trading platform.
+
+## Project Features
+
+Existing trading platforms in the industry typically support only one protocol, Desats takes the lead by supporting both BRC20 and ARC20 protocols. Furthermore, unlike other platforms where all service fee revenue from BRC20 and ARC20 transactions belongs to the platform, Desats ensures that 100% of the platform fee income goes back to the community. This embodies the spirit of community-driven, fair sharing inspired by the principles of Bitcoin's creator, Satoshi Nakamoto.
+
+ ### 1. Industry's first trading platform supporting both ARC20 and BRC20 protocols
+ 
+Desats stands out as the first trading platform in the industry to support both ARC20 and BRC20 protocols, allowing users to trade tokens of both protocols on the Desats platform.
+
+### 2. Community ownership of fee income
+
+In contrast to other existing trading platforms, Desats allocates all collected fees directly to the community. Various roles contributing to the community will share in the revenue. Of this income, 60% will be distributed to community developers and operators, ensuring that those who contribute to the development and maintenance of the platform are duly rewarded. Additionally, 10% of the income will be used to repurchase Desats platform tokens, which will then be burned. The remaining 30% will be utilized for order placement rewards, incentivizing community users to participate in platform orders and transactions.
+
+### 3. Adoption of industry-standard trading fees
+
+Desats adopts the common practice of charging trading fees prevalent in the industry, aside from gas fees. The platform service fee is set at the standard rate. Considering that many BRC20 and ARC20 transactions occur off-chain, Desats, as a decentralized community-driven platform, aims to be a reliable trading method trusted by both buyers and sellers.
+
+### 4.Powerful features, pioneering K-line charts, and rewards functionality
+
+Desats offers robust features including decentralized order placement services, trading systems, an index module, and market display systems. Setting itself apart from other trading platforms, Desats is the first to introduce K-line charts, enabling users to monitor trading volume, price fluctuations, and other factors on an hourly or daily basis for investment strategy analysis. Moreover, it introduces an exclusive community reward function to incentivize community users to participate in platform orders and transactions.
+
+### 5.Platform token with practical applications, buyback, and burn for deflation
+
+Platform fees will be used to repurchase and burn Desats platform tokens, aligning with the concept of deflation to endow Desats platform token with anticipated value. All repurchased tokens will be burned until deflation is achieved.
 
 
-Urgently needed by Brc20 community：
-Currently, all BRC20 trading platforms retain service fee income without community feedback ，and without platform Token. In contrast, Desats has a fair inscription platform token ,and ensures that platform fee income entirely is allocated to the community, embodying the true spirit of community-driven, fair-sharing Satoshi Nakamoto ethos.
 
-What is Desats：
-Desats is a decentralized community-driven BRC20 trading platform collectively owned and operated by the community. This product utilizes cutting-edge technology to facilitate fast buying and selling on the Bitcoin network. Most importantly,  it exclusively introduces extra token incentives within the industry trading platform.
-
-
-
-
-1 Highlight Features
- Fee Income Belongs to the Community:
-All transaction fee income will belong to the community, including community developers, operators, and trading users. The majority of the income will be used to repurchase platform token. The repurchased tokens will be partially used for burning to ensure the continuous deflation of the token, and the rest will be used to dynamically incentivize platform traders, to promote the development of the platform.
-
-infinite deflation Token：
-The platform's service fees will be used to repurchase and burn Desats platform tokens, achieving deflation. This concept imparts anticipated value to Desats platform tokens.  Repurchased tokens will be burned until deflation is realized.
-Exclusive Reward for platform trader
-A large portion of the income will be used to repurchase platform Token that are fairly inscribed in the market, and these Token will be dynamically fed back to the traders to incentive them to trade more on desats.
-
-
-More advanced produce
-Powerful Features, Pioneering Introduction of Candlestick Charts：
-Desats boasts powerful features including decentralized order placement services, a trading system, an index module, and a market display system. Distinguishing itself from other trading platforms, Desats will be the first to introduce candlestick charts, allowing users to monitor trading volume, price fluctuations, and other metrics on hourly, daily, and other timeframes for convenient investment strategy analysis. 
-
-
-2 Product Modules and Feature Comparisons:
+## Product Modules and Feature Comparisons
 
 |Function                  | Desats | Unisat |  OKX | 
 |  -------------------------  | ----  | ----  | ----  |
-| Decentralised Pending Order Service | YES | YES | YES |
+| Decentralized Order Placement System | YES | YES | YES |
 | Trading System  | YES | YES | YES |
 | Index Module    | YES | YES | YES |
 | Market Display System  | YES | YES | YES |
-| K-line display   | YES | NO | YES |
+| K-line display   | YES | NO | NO |
 | Reward System    | YES  |NO  | NO  |
-| Platform token   |YES  | YES  | NO  |
+| Platform token   |YES  | NO  | NO  |
+| Support  BRC20   |YES  | YES  | YES  |
+| Support  ARC20   |YES  | NO  | NO  |
 | Income belongs to the community  | YES | NO | NO |
 
 
 
+## Token and Economic Model
+
+On November 1, 2008, Satoshi Nakamoto published the Bitcoin white paper "Bitcoin: A Bitcoin" on the P2P foundation website." Peer-to-Peer Electronic Cash System", stated his new vision for electronic currency-Bitcoin was born.
+
+Desats, as a Bitcoin ecosystem project, is launched with fairness. In homage to Satoshi Nakamoto and Bitcoin, we named the token`DS08`.The Desats platform features dual tokens, designated on BRC20 and ARC20. The BRC20 trading zone is incentivised with the BRC20 token DS08. The ARC20 trading zone is incentivized with the ARC20 token.
+
+**Token Name: DS08**
+
+**Total supply:2,100,000,000**
+
+**Limit per mint:1,000**
+
+[DS08](https://geniidata.com/ordinals/tick/DS08)
+
+[Mint link](https://unisat.io/brc20/DS08)
 
 
-3 Inscribe  Now
+### Economic Model and Revenue Allocation
+
+Desats will adopt an industry-standard transaction fee. All transaction fees collected by the Desats platform will be allocated entirely to the community, to be shared among various roles contributing to the community.
+
+|Function                  | Desats | 
+|  -------------------------  | ----  | 
+| Community Developers and Operators | 60% |
+| Repurchase Desats Platform Tokens and Burn All | 10% |
+| Order Placement and Trade Rewards | 30% |
+
+Of the total revenue, 
++ 60% will be allocated to community developers. 
++ 10% of the income will be used for the repurchase of Desats platform tokens, which will then be burned. 
++ 30% of the income will be dedicated to order placement rewards, incentivizing community users to participate in platform orders and transactions.
 
 
 
-4 Economic Model
-
-Desats, as a Bitcoin BRC20 ecosystem project, is fairly launched. The total supply of Desats is XX, each unit priced at XX, with a maximum of XX per transaction.
-
-
-Revenue Allocation:
-Community Developers and Operators: 40%
-Repurchase Desats Platform Tokens and Burn All: 20%
-Order Placement Rewards: 40%
-60% of the income will be used to repurchase platform tokens, of which 20% will be burned and 40% will be given as incentives to trading users participating in platform order placement and trading.
-40% of the revenue will be allocated to community developers and operators. This is to incentivize their contributions, as community developers undertake all development and system maintenance responsibilities for the platform. Related community operations personnel supporting the platform's development also fall within the incentivized category, ensuring the maximization of community interests.
-
-
-
-5  Roadmap
-The roadmap for Desats outlines the key milestones and developments for the project's progression.
-
-
-
-Community
 
