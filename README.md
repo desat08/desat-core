@@ -85,5 +85,7 @@ Of the total revenue,
 + 30% of the income will be dedicated to order placement rewards, incentivizing community users to participate in platform orders and transactions.
 
 
+## IV Twitter
 
+[Raphald’s Twitter](https://twitter.com/Raphaldesat) 
 
