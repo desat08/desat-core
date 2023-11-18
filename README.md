@@ -6,7 +6,7 @@ Desat is a decentralized community-driven platform for trading Ordinals and Atom
 
 ## Project Features
 
-Existing trading platforms in the industry typically support only one protocol, Desat takes the lead by supporting both BRC20 and ARC20 protocols. Furthermore, unlike other platforms where all service fee revenue from BRC20 and ARC20 transactions belongs to the platform, Desats ensures that 100% of the platform fee income goes back to the community. This embodies the spirit of community-driven, fair sharing inspired by the principles of Bitcoin's creator, Satoshi Nakamoto.
+Existing trading platforms in the industry typically support only one protocol, Desat takes the lead by supporting both BRC20 and ARC20 protocols. Furthermore, unlike other platforms where all service fee revenue from BRC20 and ARC20 transactions belongs to the platform, Desat ensures that 100% of the platform fee income goes back to the community. This embodies the spirit of community-driven, fair sharing inspired by the principles of Bitcoin's creator, Satoshi Nakamoto.
 
  ### 1. Industry's first trading platform supporting both ARC20 and BRC20 protocols
  
@@ -14,7 +14,7 @@ Desat stands out as the first trading platform in the industry to support both A
 
 ### 2. Community ownership of fee income
 
-In contrast to other existing trading platforms, Desat allocates all collected fees directly to the community. Various roles contributing to the community will share in the revenue. Of this income, 60% will be distributed to community developers and operators, ensuring that those who contribute to the development and maintenance of the platform are duly rewarded. Additionally, 10% of the income will be used to repurchase Desats platform tokens, which will then be burned. The remaining 30% will be utilized for order placement rewards, incentivizing community users to participate in platform orders and transactions.
+In contrast to other existing trading platforms, Desat allocates all collected fees directly to the community. Various roles contributing to the community will share in the revenue. Of this income, 60% will be distributed to community developers and operators, ensuring that those who contribute to the development and maintenance of the platform are duly rewarded. Additionally, 10% of the income will be used to repurchase Desat platform tokens, which will then be burned. The remaining 30% will be utilized for order placement rewards, incentivizing community users to participate in platform orders and transactions.
 
 ### 3. Adoption of industry-standard trading fees
 
@@ -76,12 +76,12 @@ Desat will adopt an industry-standard transaction fee. All transaction fees coll
 |     Part             | Percentage | 
 |  -------------------------  | ----  | 
 | Community Developers and Operators | 60% |
-| Repurchase Desats Platform Tokens and Burn All | 10% |
+| Repurchase Desat Platform Tokens and Burn All | 10% |
 | Order Placement and Trade Rewards | 30% |
 
 Of the total revenue, 
 + 60% will be allocated to community developers. 
-+ 10% of the income will be used for the repurchase of Desats platform tokens, which will then be burned. 
++ 10% of the income will be used for the repurchase of Desat platform tokens, which will then be burned. 
 + 30% of the income will be dedicated to order placement rewards, incentivizing community users to participate in platform orders and transactions.
 
 
