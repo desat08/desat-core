@@ -51,22 +51,13 @@ Platform fees will be used to repurchase and burn Desat platform tokens, alignin
 
 On November 1, 2008, Satoshi Nakamoto published the Bitcoin white paper "Bitcoin: A Bitcoin" on the P2P foundation website." Peer-to-Peer Electronic Cash System", stated his new vision for electronic currency-Bitcoin was born.
 
-Desat, as a Bitcoin ecosystem project, is launched with fairness. In homage to Satoshi Nakamoto and Bitcoin, we named the token`DS08`.The Desat platform features dual tokens, designated on BRC20 and ARC20. The BRC20 trading zone is incentivised with the BRC20 token DS08. The ARC20 trading zone is incentivized with the ARC20 token.
+Desat, as a Bitcoin ecosystem project, is launched with fairness. In homage to Satoshi Nakamoto and Bitcoin, we temporarily named the token `DSXX`.The Desat platform features dual tokens, designated on BRC20 and ARC20. The BRC20 trading zone is incentivised with the BRC20 token DSXX. The ARC20 trading zone is incentivized with the ARC20 token.
 
-**Token Name: DS08**
+**Token Name: DSXX**
 
 **Total supply:2,100,000,000**
 
 **Limit per mint:1,000**
-
-**Mint link:**
-
-https://geniidata.com/ordinals/tick/DS08
-
-https://unisat.io/brc20/DS08
-
-https://www.okx.com/cn/web3/marketplace/ordinals/inscribing
-
 
 
 ### Economic Model and Revenue Allocation
