@@ -63,8 +63,11 @@ Desat, as a Bitcoin ecosystem project, is launched with fairness. In homage to S
 
 **Mint Bitworkc :Da08.8** 
 
+**Mint now**  
+
 **>>>  yarn cli mint-dft desat** 
-**Mint now:https://atomicalmarket.com/token/desat**     
+
+**https://atomicalmarket.com/token/desat**     
 
 **https://bitatom.io/token/desat** 
 
