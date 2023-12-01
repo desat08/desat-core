@@ -95,5 +95,5 @@ Of the total revenue,
 
 ## IV Twitter
 
-[Raphald’s Twitter](https://twitter.com/Raphaldesat) 
+[Official Twitter](https://twitter.com/Raphaldesat) 
 
