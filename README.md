@@ -58,10 +58,14 @@ Desat, as a Bitcoin ecosystem project, is launched with fairness. In homage to S
 **Total supply:2,100,000,000**
 
 **Limit per mint:10,000**
+
 **Mint Start Height:819,266**
+
 **Mint Bitworkc :Da08.8** 
 
-**Mint now:https://atomicalmarket.com/token/desat                                                                                                               https://bitatom.io/token/desat** 
+**Mint now:https://atomicalmarket.com/token/desat**     
+
+**https://bitatom.io/token/desat** 
 
 ### Economic Model and Revenue Allocation
 
