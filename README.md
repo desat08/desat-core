@@ -84,8 +84,10 @@ Of the total revenue,
 
 ## Milestones
 
-+ xxx
-+ xxx
++ Build ARC20Indexer, ARC20 listing system, ARC20 market system, and other functional modules.
++ Test the ARC20 trading system on the BTC testnet and fix bugs.
++ Around mid-December, officially launch the ARC20 trading system.
++ Will continue to add BRC20 trading functionality.
 
 ## IV Twitter
 
