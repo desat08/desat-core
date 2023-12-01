@@ -82,6 +82,10 @@ Of the total revenue,
 + 10% of the income will be used for the repurchase of Desat platform tokens, which will then be burned. 
 + 30% of the income will be dedicated to order placement rewards, incentivizing community users to participate in platform orders and transactions.
 
+## Milestones
+
++ xxx
++ xxx
 
 ## IV Twitter
 
